@@ -1,10 +1,5 @@
 [{
     "creator": "Riz",
     "number": "1",
-    "nsfw": "https://i.pinimg.com/564x/d5/43/ae/d543aef3523502743b376db380cebff3.jpg"
-},
-{
-    "creator": "Riz",
-    "number": "2",
-    "nsfw": "https://cdn.discordapp.com/attachments/984949391041384510/985291677067513886/VID_20220608_223748_511.mp4"
+    "nsfw": "https://dacoro.herokuapp.com/pussy?apikey=dacorodomina"
 }]
